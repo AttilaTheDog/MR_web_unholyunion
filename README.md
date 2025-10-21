@@ -1,8 +1,7 @@
 # Aufgabe
 
 Nutze den bereit gestellten Container, um dich auf der Website mit SQL Injection zu befassen. Für jede Suche seht ihr direkt die entsprechende SQL-Syntax und Antwort der Database im Backend.
-
-![image.png](attachment:fd302284-c17c-4f4c-9c82-9c6e641d57bc:image.png)
+<img width="1868" height="893" alt="image" src="https://github.com/user-attachments/assets/ef70ab48-8457-42e8-89f2-99603afead08" />
 
 In der Datenbank befindet sich in einer nicht für User vorgesehenen Table eine flag. Durch SQL-Injection kann diese flag ausgelesen werden.
 
@@ -39,6 +38,7 @@ chmod -R +x src/ build-docker.sh
 
 Nun könnt ihr `./build-docker.sh` ausführen und wenn der Prozess läuft über `http://localhost:3000`im Browser auf die Seite zugreifen.
 
-![image.png](attachment:0ea06944-5969-4165-adc8-31876d25e9f4:image.png)
+<img width="1300" height="121" alt="image" src="https://github.com/user-attachments/assets/ac02cf60-28ea-46a1-bc65-702245e70954" />
 
-![image.png](attachment:c36922ea-b99e-4ab8-a0a7-3525a7644c9e:image.png)
+<img width="1914" height="886" alt="image" src="https://github.com/user-attachments/assets/34ef37a3-92c4-48ac-8ab5-de09070cd910" />
+
